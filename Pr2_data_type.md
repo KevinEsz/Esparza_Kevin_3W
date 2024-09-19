@@ -1,4 +1,4 @@
-#Dependiendo la fila, te dice el tipo de variables que son (List, tuple, str)
+#Dependiendo la fila, te dice el tipo de variables que son   (List, tuple, str)
 
 x = ["Manzana", "uva", "Limon"] 
 
