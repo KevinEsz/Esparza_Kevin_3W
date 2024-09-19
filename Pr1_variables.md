@@ -1,10 +1,8 @@
 #Muestra en la pantalla los valores de (x) y (y) asignados.
 
-x = 10 
-#se asigna el valor de x (10)
+x = 10     #se asigna el valor de x (10)
 
-y = 20 
-#se asigna el valor de y (20)
+y = 20     #se asigna el valor de y (20)
 
 print (x)  #Se imprime el valor de x
 
