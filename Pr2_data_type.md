@@ -25,4 +25,4 @@ print(type(z))
 
 #Se imprime en la pantalla el data type de "z" (stg)
 
-![image](https://github.com/user-attachments/assets/3f052e42-f543-43b6-b070-09c37849d64c)
+![image](https://github.com/user-attachments/assets/551c430b-b664-4095-8c4e-4b88fd122a9f)
