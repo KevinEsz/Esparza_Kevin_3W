@@ -35,6 +35,6 @@ print("")
 10.else:
 
     print (y)
-    
-![image](https://github.com/user-attachments/assets/1c0d819e-43e7-4985-b117-fa6dd490c826)
+![image](https://github.com/user-attachments/assets/40376966-25bf-450a-a1a6-ab62c15b3108)
 
+![image](https://github.com/user-attachments/assets/88eb31da-ec9c-48a2-a653-7ddd16ee0988)
