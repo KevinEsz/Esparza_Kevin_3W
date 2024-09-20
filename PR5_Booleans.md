@@ -36,5 +36,5 @@ else:
 
     print (y)
     
-    ![image](https://github.com/user-attachments/assets/1c0d819e-43e7-4985-b117-fa6dd490c826)
+![image](https://github.com/user-attachments/assets/1c0d819e-43e7-4985-b117-fa6dd490c826)
 
