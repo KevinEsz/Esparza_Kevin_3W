@@ -16,15 +16,15 @@ print("") #Espacio
 
 if num1 == 0: #Si el numero es 0 imprime "El número es cero."
 
-        print("El número es cero.")
+ print("El número es cero.")
 
 elif num1 % 2 == 0: #Si el numero es par imprime "El número es par."
 
-    print("El número es par.")
+ print("El número es par.")
 
 else: #Si cualquiera de los 2 es falso imprime "El numero es impar"
 
-    print("El número es impar.")
+ print("El número es impar.")
 
 print("")
 
