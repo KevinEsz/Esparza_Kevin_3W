@@ -6,11 +6,11 @@ print("") #Espacio
 
 num1 = input("Ingresa un número: ")
 
-# Intentar convertir la entrada a un número entero
+#Intentar convertir la entrada a un número entero
 
 num1 = int(num1)
 
-# Verificar si el número es cero, par o impar
+#Verificar si el número es cero, par o impar
 
 print("") #Espacio
 
